@@ -6,9 +6,9 @@ const Header: FC = () => (
   <div>
     <br />
     <br />
-    <FontAwesomeIcon icon={faPaintRoller} size="lg" spin />
+    <FontAwesomeIcon icon={faPaintRoller} size="lg" />
     &nbsp;Under construction&nbsp;
-    <FontAwesomeIcon icon={faPaintRoller} size="lg" spin />
+    <FontAwesomeIcon icon={faPaintRoller} size="lg" />
     <br />
     <br />
   </div>
