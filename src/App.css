@@ -13,15 +13,44 @@
   }
 }
 
-.App-header {
+.Header {
   background-color: #282c34;
-  min-height: 77vh;
+  min-height: 7vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  margin-bottom: 16px;
+}
+
+.Body-Wrapper {
+  display: flex;
+}
+.Body-Wrapper-Item {
+  flex: 1;
+}
+
+.Body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Body-Button {
+  max-width: 640px;
+  margin-bottom: 10px;
+  min-height: 60px;
+}
+
+.Footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-size: calc(2px + 1vmin);
 }
 
 .App-link {

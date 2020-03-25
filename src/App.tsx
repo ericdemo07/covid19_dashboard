@@ -1,12 +1,15 @@
 import React from "react";
 import "./App.css";
 import Header from "./app/Header";
+import Body from "./app/Body";
+import Footer from "./app/Footer";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const App: React.FC = () => (
   <div className="App">
     <Header />
-    <header className="App-header">Covid-19 Information</header>
-    <Header />
+    <Body />
+    <Footer />
   </div>
 );
 
