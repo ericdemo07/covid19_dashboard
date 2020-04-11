@@ -9,8 +9,8 @@ const Footer: FC = () => (
       <pre>
         For information purposes only. Consult a doctor for medical advice.
         <br />
-        Source: www.mohfw.gov.in., www.worldometers.info, www.who.int,
-        www.mygov.in, www.whatsapp.com/coronavirus
+        Source: www.mohfw.gov.in, www.worldometers.info, www.who.int,
+        www.mygov.in, www.whatsapp.com/coronavirus, www.covid19india.org
         <br />
         If you want to get any resouce added, changed or removed drop a{" "}
         <a href="mailto: ericdemo07@gmail.com">

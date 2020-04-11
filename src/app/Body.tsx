@@ -8,6 +8,16 @@ const Body: FC = () => (
       <Button
         variant="outline-dark"
         className="Body-Button"
+        href="https://www.covid19india.org/"
+        type="reset"
+      >
+        Covid19 tracker - India
+        <br />
+        <sub>A Crowdsourced initiative</sub>
+      </Button>
+      <Button
+        variant="outline-dark"
+        className="Body-Button"
         href="http://webcache.googleusercontent.com/search?q=cache:https://mohfw.gov.in/&strip=1"
         type="reset"
       >
